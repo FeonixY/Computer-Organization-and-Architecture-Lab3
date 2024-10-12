@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2023.2 (64-bit)
+# SW Build 4029153 on Fri Oct 13 20:14:34 MDT 2023
+# IP Build 4028589 on Sat Oct 14 00:45:43 MDT 2023
+# SharedData Build 4025554 on Tue Oct 10 17:18:54 MDT 2023
+# Start of session at: Sun May 26 17:24:52 2024
+# Process ID: 18160
+# Current directory: E:/FDU/IIII/Computer Organization and Architecture/Lab3/Lab3.runs/impl_1
+# Command line: vivado.exe -log top_module.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source top_module.tcl -notrace
+# Log file: E:/FDU/IIII/Computer Organization and Architecture/Lab3/Lab3.runs/impl_1/top_module.vdi
+# Journal file: E:/FDU/IIII/Computer Organization and Architecture/Lab3/Lab3.runs/impl_1\vivado.jou
+# Running On: FEONIXY-WORKSTATION, OS: Windows, CPU Frequency: 2688 MHz, CPU Physical cores: 14, Host memory: 16849 MB
+#-----------------------------------------------------------
+source top_module.tcl -notrace

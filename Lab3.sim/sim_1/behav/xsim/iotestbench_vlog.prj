@@ -1,0 +1,26 @@
+# compile verilog/system verilog design source files
+sv xil_defaultlib  \
+"../../../../Lab3.srcs/sources_1/new/IO.sv" \
+"../../../../Lab3.srcs/sources_1/new/alu.sv" \
+"../../../../Lab3.srcs/sources_1/new/alu_decoder.sv" \
+"../../../../Lab3.srcs/sources_1/new/control_unit.sv" \
+"../../../../Lab3.srcs/sources_1/new/datapath.sv" \
+"../../../../Lab3.srcs/sources_1/new/flopenr.sv" \
+"../../../../Lab3.srcs/sources_1/new/main_decoder.sv" \
+"../../../../Lab3.srcs/sources_1/new/memory.sv" \
+"../../../../Lab3.srcs/sources_1/new/memory_decoder.sv" \
+"../../../../Lab3.srcs/sources_1/new/mips.sv" \
+"../../../../Lab3.srcs/sources_1/new/mux2.sv" \
+"../../../../Lab3.srcs/sources_1/new/mux4.sv" \
+"../../../../Lab3.srcs/sources_1/new/mux7seg.sv" \
+"../../../../Lab3.srcs/sources_1/new/register_file.sv" \
+"../../../../Lab3.srcs/sources_1/new/shift_left2.sv" \
+"../../../../Lab3.srcs/sources_1/new/sign_extend.sv" \
+"../../../../Lab3.srcs/sources_1/new/top_module.sv" \
+"../../../../Lab3.srcs/sim_1/new/iotestbench.sv" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

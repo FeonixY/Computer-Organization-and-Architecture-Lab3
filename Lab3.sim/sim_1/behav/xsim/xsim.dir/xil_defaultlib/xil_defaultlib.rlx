@@ -1,0 +1,24 @@
+0.7
+2020.2
+Oct 13 2023
+20:47:58
+E:/FDU/IIII/Computer Organization and Architecture/Lab3/Lab3.sim/sim_1/behav/xsim/glbl.v,1697210495,verilog,,,,glbl,,uvm,,,,,,
+,,,,,,iotestbench,,,,,,,,
+E:/FDU/IIII/Computer Organization and Architecture/Lab3/Lab3.srcs/sim_1/new/testbench.sv,1716618968,systemVerilog,,,,testbench,,uvm,,,,,,
+E:/FDU/IIII/Computer Organization and Architecture/Lab3/Lab3.srcs/sources_1/new/IO.sv,1714287680,systemVerilog,,E:/FDU/IIII/Computer Organization and Architecture/Lab3/Lab3.srcs/sources_1/new/alu.sv,,IO,,uvm,,,,,,
+E:/FDU/IIII/Computer Organization and Architecture/Lab3/Lab3.srcs/sources_1/new/alu.sv,1716348987,systemVerilog,,E:/FDU/IIII/Computer Organization and Architecture/Lab3/Lab3.srcs/sources_1/new/alu_decoder.sv,,alu,,uvm,,,,,,
+E:/FDU/IIII/Computer Organization and Architecture/Lab3/Lab3.srcs/sources_1/new/alu_decoder.sv,1716711090,systemVerilog,,E:/FDU/IIII/Computer Organization and Architecture/Lab3/Lab3.srcs/sources_1/new/control_unit.sv,,alu_decoder,,uvm,,,,,,
+E:/FDU/IIII/Computer Organization and Architecture/Lab3/Lab3.srcs/sources_1/new/control_unit.sv,1716711213,systemVerilog,,E:/FDU/IIII/Computer Organization and Architecture/Lab3/Lab3.srcs/sources_1/new/datapath.sv,,control_unit,,uvm,,,,,,
+E:/FDU/IIII/Computer Organization and Architecture/Lab3/Lab3.srcs/sources_1/new/datapath.sv,1716709435,systemVerilog,,E:/FDU/IIII/Computer Organization and Architecture/Lab3/Lab3.srcs/sources_1/new/flopenr.sv,,datapath,,uvm,,,,,,
+E:/FDU/IIII/Computer Organization and Architecture/Lab3/Lab3.srcs/sources_1/new/flopenr.sv,1716347071,systemVerilog,,E:/FDU/IIII/Computer Organization and Architecture/Lab3/Lab3.srcs/sources_1/new/main_decoder.sv,,flopenr,,uvm,,,,,,
+E:/FDU/IIII/Computer Organization and Architecture/Lab3/Lab3.srcs/sources_1/new/main_decoder.sv,1716711203,systemVerilog,,E:/FDU/IIII/Computer Organization and Architecture/Lab3/Lab3.srcs/sources_1/new/memory.sv,,main_decoder,,uvm,,,,,,
+E:/FDU/IIII/Computer Organization and Architecture/Lab3/Lab3.srcs/sources_1/new/memory.sv,1716768512,systemVerilog,,E:/FDU/IIII/Computer Organization and Architecture/Lab3/Lab3.srcs/sources_1/new/memory_decoder.sv,,memory,,uvm,,,,,,
+E:/FDU/IIII/Computer Organization and Architecture/Lab3/Lab3.srcs/sources_1/new/memory_decoder.sv,1716619768,systemVerilog,,E:/FDU/IIII/Computer Organization and Architecture/Lab3/Lab3.srcs/sources_1/new/mips.sv,,memory_decoder,,uvm,,,,,,
+E:/FDU/IIII/Computer Organization and Architecture/Lab3/Lab3.srcs/sources_1/new/mips.sv,1716708261,systemVerilog,,E:/FDU/IIII/Computer Organization and Architecture/Lab3/Lab3.srcs/sources_1/new/mux2.sv,,mips,,uvm,,,,,,
+E:/FDU/IIII/Computer Organization and Architecture/Lab3/Lab3.srcs/sources_1/new/mux2.sv,1714129523,systemVerilog,,E:/FDU/IIII/Computer Organization and Architecture/Lab3/Lab3.srcs/sources_1/new/mux4.sv,,mux2,,uvm,,,,,,
+E:/FDU/IIII/Computer Organization and Architecture/Lab3/Lab3.srcs/sources_1/new/mux4.sv,1716356952,systemVerilog,,E:/FDU/IIII/Computer Organization and Architecture/Lab3/Lab3.srcs/sources_1/new/mux7seg.sv,,mux4,,uvm,,,,,,
+E:/FDU/IIII/Computer Organization and Architecture/Lab3/Lab3.srcs/sources_1/new/mux7seg.sv,1714296469,systemVerilog,,E:/FDU/IIII/Computer Organization and Architecture/Lab3/Lab3.srcs/sources_1/new/register_file.sv,,mux7seg,,uvm,,,,,,
+E:/FDU/IIII/Computer Organization and Architecture/Lab3/Lab3.srcs/sources_1/new/register_file.sv,1714126464,systemVerilog,,E:/FDU/IIII/Computer Organization and Architecture/Lab3/Lab3.srcs/sources_1/new/shift_left2.sv,,register_file,,uvm,,,,,,
+E:/FDU/IIII/Computer Organization and Architecture/Lab3/Lab3.srcs/sources_1/new/shift_left2.sv,1712413375,systemVerilog,,E:/FDU/IIII/Computer Organization and Architecture/Lab3/Lab3.srcs/sources_1/new/sign_extend.sv,,shift_left2,,uvm,,,,,,
+E:/FDU/IIII/Computer Organization and Architecture/Lab3/Lab3.srcs/sources_1/new/sign_extend.sv,1712324737,systemVerilog,,E:/FDU/IIII/Computer Organization and Architecture/Lab3/Lab3.srcs/sources_1/new/top_module.sv,,sign_extend,,uvm,,,,,,
+E:/FDU/IIII/Computer Organization and Architecture/Lab3/Lab3.srcs/sources_1/new/top_module.sv,1716708259,systemVerilog,,E:/FDU/IIII/Computer Organization and Architecture/Lab3/Lab3.srcs/sim_1/new/iotestbench.sv,,top_module,,uvm,,,,,,
